@@ -8,9 +8,9 @@
    
    ### LINUX
    ```sh
-   curl https://raw.githubusercontent.com/GrimalDev/RandomDevProjects/main/LinuxScripts/groupmng.py -o groupmng.py ; sudo cp groupmng.py /usr/local/bin/groupmng ; sudo rm groupmng.py ; sudo chmod +x /usr/local/bin/groupmng
+   curl https://raw.githubusercontent.com/GrimalDev/group-manager/main/groupmng.py -o groupmng.py ; sudo cp groupmng.py /usr/local/bin/groupmng ; sudo rm groupmng.py ; sudo chmod +x /usr/local/bin/groupmng
    ```
    ### MACOS
    ```sh
-   curl https://raw.githubusercontent.com/GrimalDev/RandomDevProjects/main/LinuxScripts/groupmng.py -o groupmng.py ; sudo cp groupmng.py /opt/homebrew/bin/groupmng ; sudo rm groupmng.py ; sudo chmod +x /bin/groupmng
+   curl https://raw.githubusercontent.com/GrimalDev/group-manager/main/groupmng.py -o groupmng.py ; sudo cp groupmng.py /opt/homebrew/bin/groupmng ; sudo rm groupmng.py ; sudo chmod +x /bin/groupmng
    ```
