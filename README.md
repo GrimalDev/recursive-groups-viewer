@@ -1,6 +1,6 @@
 # A user/groups recursive viewer
 
-## Groumng.py :
+## groupsviewer.py :
 
   => A tool to display the groups and users created on a linux machine in a fancy way.
   
@@ -8,9 +8,9 @@
    
    ### LINUX
    ```sh
-   curl https://raw.githubusercontent.com/GrimalDev/recursive-groups-viewer/main/groupmng.py -o groupmng.py ; sudo cp groupmng.py /usr/local/bin/groupmng ; sudo rm groupmng.py ; sudo chmod +x /usr/local/bin/groups
+   curl https://raw.githubusercontent.com/GrimalDev/recursive-groups-viewer/main/groupsviewer.py -o groupsviewer.py ; sudo cp groupsviewer.py /usr/local/bin/groups ; sudo rm groupsviewer.py ; sudo chmod +x /usr/local/bin/groups
    ```
    ### MACOS
    ```sh
-   curl https://raw.githubusercontent.com/GrimalDev/recursive-groups-viewer/main/groupmng.py -o groupmng.py ; sudo cp groupmng.py /opt/homebrew/bin/groupmng ; sudo rm groupmng.py ; sudo chmod +x /bin/groups
+   curl https://raw.githubusercontent.com/GrimalDev/recursive-groups-viewer/main/groupsviewer.py -o groupsviewer.py ; sudo cp groupsviewer.py /opt/homebrew/bin/groups ; sudo rm groupsviewer.py ; sudo chmod +x /bin/groups
    ```
